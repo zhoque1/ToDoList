@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ToDoList</string>
+    <string name="alert_title">This is a test alert</string>
+    <string name="ok">Ok</string>
+    <string name="alert_message">This is your test alert message.</string>
 </resources>
