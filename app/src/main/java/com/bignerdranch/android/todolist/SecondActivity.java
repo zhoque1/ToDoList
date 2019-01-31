@@ -18,7 +18,7 @@ public class SecondActivity extends Activity {
             public void onClick(View v) {
                 AlertDialog.Builder builder = new AlertDialog.Builder(SecondActivity.this);
 
-                //this is for toasting
+                //this is for alert
                 builder.setTitle(R.string.alert_title);
                 builder.setPositiveButton(R.string.ok, null);
                 builder.setMessage(R.string.alert_message);
